@@ -1,4 +1,4 @@
-# RockBlock Iridium SBD Modem library
+# RockBlock Iridium SBD Modem Python library
 
 Converted to Python 3.
 - Added some troubleshooting messages during the sending phase
